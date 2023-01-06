@@ -1,9 +1,19 @@
 {
-  "name": "portal",
-  "version": "0.1.0",
+  "name": "ngd-portal",
+  "version": "1.0.1",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/nguyendoai7777/NG-Portal-package"
   },
+  "author": {
+    "email": "nguyendoai7777@gmail.com",
+    "name": "nguyendoai7777"
+  },
+  "keywords": [
+    "typescript",
+    "portal angular",
+    "angular"
+  ],
   "description": "portal directive",
   "peerDependencies": {
     "@angular/common": "^14.0.0 || ^15.0.0",
